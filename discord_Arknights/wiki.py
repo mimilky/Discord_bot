@@ -47,8 +47,3 @@ class wiki:
 
 
 wiki = wiki()
-
-#print(wiki.get_op_info("エクシア"))
-
-#<td><a href="https://wiki3.jp/arknightsjp/page/83"><img src="https://img.wiki3.jp/arknightsjp/Icon_skill_traning3_cn_size40.jpg"/></a><a href="https://wiki3.jp/arknightsjp/page/83"> アーツ学 III</a> x2 <a href="https://wiki3.jp/arknightsjp/page/57"><img src="https://img.wiki3.jp/arknightsjp/Icon_sugar_agglomerate_size40.jpg"/></a>
-# <a href="https://wiki3.jp/arknightsjp/page/57"> 上級糖原</a> x1 <a href="https://wiki3.jp/arknightsjp/page/73"><img src="https://img.wiki3.jp/arknightsjp/Icon_RMA70_12_size40.jpg"/></a><a href="https://wiki3.jp/arknightsjp/page/73"> RMA70-12</a> x3</td>
