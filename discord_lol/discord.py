@@ -3,7 +3,7 @@ import Riot
 import asyncio
 from riotwatcher import LolWatcher, ApiError
 
-TOKEN = 'Njc1NjI0NzA1Mzc3NDM1Njcw.Xj52ig.VrGvEqIgYnjIwKqzNLd5AQWqPEo'
+TOKEN = 'TOKEN'
 
 client = discord.Client()
 
